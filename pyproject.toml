@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dotenv>=0.9.9",
-    "langchain[agents]>=1.0.3",
+    "langchain>=1.0.3",
     "langchain-anthropic>=1.0.1",
     "pydantic>=2.12.3",
 ]
